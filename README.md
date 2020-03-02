@@ -8,4 +8,4 @@ Window10
 vc++ ,nmake
 
 #How to use it
-Download the source code and directly unzip Poco lib to local directory, then load it to vs2017 and compoile.
+Download the source code and directly unzip Poco lib to local directory, then load it to vs2017 and compile.
